@@ -1,3 +1,4 @@
+#KR2: Sotnikova
 import os
 import socket
 
